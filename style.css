@@ -1,0 +1,12 @@
+td{
+  border: 1px solid #EEEEEE;
+  height: 10px;
+  width: 9px;
+  background-color:#6495ed;
+}
+table{
+ border-collapse: collapse;
+}
+canvas{
+	display: block;
+}
